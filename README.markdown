@@ -1,4 +1,4 @@
-# DDoS Simulation and Detection with Proof of Work
+# DDoS Simulation and Detection with Proof of Work(Mininet)
 
 ## Overview
 This project simulates a DDoS attack using Mininet, captures network traffic, extracts features with nfstream, clusters traffic to identify attackers using KMeans, and applies a Proof of Work (PoW) mechanism with dynamic difficulty to mitigate attacks. Reputation scores are maintained for IPs, and results are visualized.
